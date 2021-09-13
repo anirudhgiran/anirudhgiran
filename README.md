@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @anirudhgiran
+- 👋 Hi, I’m Anirudh Giran
 - 👀 I’m interested in Game & Web Development
 - 🌱 I’m currently learning React & Firebase
+- 🔍 Checkout my portfolio: https://www.anirudhgiran.com
 - 📫 How to reach me: Instagram: https://www.instagram.com/anirudhgiran
 
 <!---
